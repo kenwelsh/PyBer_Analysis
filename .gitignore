@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Graphing practive file
+matplotlib_practice.ipynb
+matplotlib_practice2.ipynb
