@@ -5,7 +5,7 @@
 
 
 ### Pyber Summary by City Type
-<table border="1" class="dataframe">
+<table border="1" class="dataframe" style="width:150%">
   <thead>
     <tr style="text-align  center;">
       <th></th>
@@ -17,7 +17,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr style="text-align: center;">
+    <tr align="right">
       <th>Rural</th>
       <td>125</td>
       <td>78</td>
@@ -25,7 +25,7 @@
       <td>$34.62</td>
       <td>$55.49</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="right">
       <th>Suburban</th>
       <td>625</td>
       <td>490</td>
@@ -33,7 +33,7 @@
       <td>$30.97</td>
       <td>$39.50</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="right">
       <th>Urban</th>
       <td>1,625</td>
       <td>2,405</td>
