@@ -7,7 +7,7 @@
 ### Pyber Summary by City Type
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align  left;">
+    <tr style="text-align  center;">
       <th></th>
       <th>Total Rides</th>
       <th>Total Drivers</th>
