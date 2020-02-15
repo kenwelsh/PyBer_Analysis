@@ -5,7 +5,7 @@
 
 
 ### Pyber Summary by City Type
-<table border="1" class="dataframe" style="width:150%">
+<table border="1" class="dataframe" style="width:100%">
   <thead>
     <tr style="text-align  center;">
       <th></th>
@@ -43,3 +43,9 @@
     </tr>
   </tbody>
 </table>
+
+
+
+
+![alt text](https://github.com/kenwelsh/PyBer_Analysis/blob/master/analysis/Fig8_Challenge.png "Total Fare by City Type Chart")
+
