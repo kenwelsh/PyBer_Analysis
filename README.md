@@ -49,7 +49,7 @@
 + Urban cities make up a majority of the business, with 68% of rides and 63% of fares.
   + Urban ride activity is 13 times greater than in rural cities and 2.6 times more than suburban.
   + Total fares are higher by 9.2 times than rural and 2.1 times for suburban.
-+ Urban driver count exceeds ride count by 780, which translates into an average number of rides per driver of 0.7.  Rural and suburban cities' ride counts exceed driver count, with average trips per driver at 1.6 and 1.3, respectively.  These differences in ratio to rides per driver explain the change we see in Average Fare per Ride and Average Fare per Driver by city type.
++ Urban driver count exceeds ride count by 780, which translates into an average number of rides per driver of 0.7.  Rural and suburban cities' ride counts exceed driver count, with average trips per driver at 1.6 and 1.3, respectively.  These differences in ratio to rides per driver explain the change we see in Average Fare per Ride and Average Fare per Driver by city type, with the average urban driver earning less than the average fare amount for the market.
 + There is slightly more than a $10 spread between the Average Fare per Ride between the urban and rural markets.  While the average distance of trips between the city types may be a contributing factor to the variance in Average Fare per Ride, the overabundance of drivers in Urban markets compared to the scarcity of drivers in rural and suburban cities is most likely a significant factor.
 + The more abundant supply of drivers and lower average fares may lead to higher customer satisfaction in the urban markets. Still, conversely, it may lead to lower driver satisfaction and potentially higher turnover.
 
